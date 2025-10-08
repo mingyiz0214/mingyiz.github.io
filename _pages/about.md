@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mingyi Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Dr. Mingyi Zhang is an Assistant Professor in the School of Aerospace and Mechanical Engineering at the University of Oklahoma. He earned his Ph.D. and M.S. in Materials Science and Engineering from Carnegie Mellon University (2017–2022) under the supervision of Dr. Gregory S. Rohrer and Dr. Paul A. Salvador, and his B.S. in Chemistry from Renmin University of China (2013–2017). Before joining OU, he was a Postdoctoral Fellow at the Pacific Northwest National Laboratory (2022–2025) supervised by Dr. James J. De Yoreo.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Dr. Zhang’s research focuses on interfacial phenomena and the use of advanced microscopy techniques to investigate materials behavior. His current work explores photochemical and electrochemical processes, materials behavior under extreme conditions, and the design of bioinspired hybrid materials for mechanical and energy-related applications.
+
+
 
 A data-driven personal website
 ======
