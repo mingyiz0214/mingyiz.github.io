@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mingyi Zhang / The MY Group on Interface Design"
+title                    : "Mingyi Zhang / The MY Group On Interface Design"
 title_separator          : "-"
 name                     : &name "Mingyi Zhang"
 description              : &description "Assistant professor at University of Oklahoma"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=QrPyO68AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://scholar.google.co.uk/citations?hl=en&user=QrPyO68AAAAJ"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
