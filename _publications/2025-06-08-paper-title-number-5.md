@@ -6,6 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2024-10-29
 venue: 'PNAS'
+image: "TOC.png" 
 paperurl: 'https://doi.org/10.1073/pnas.2412358121'
 citation: 'MY. Zhang, Y. Chen, C. Wu, R. Zheng, E. G. Saccuzzo, Y. Xia, T.K.H. Trinh, E. Nakouzi, B. A. Legg, W. J. Shaw, J. Tao, J. J. De Yoreo, and C-L. Chen, A Molecular View of Peptoid-Induced Acceleration of Calcite Growth, Proc. Natl. Acad. Sci. U.S.A 121 (2024) 45 e2412358121.'
 ---
