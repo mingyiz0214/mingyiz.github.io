@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mingyi Zhang / The MY Group On Interface Design"
+title                    : "Mingyi Zhang | The MY Group On Interface Design"
 title_separator          : "-"
 name                     : &name "Mingyi Zhang"
 description              : &description "Assistant professor at University of Oklahoma"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://mingyiz0214.github.io",
+url                      : "https://mingyiz0214.github.io" # The base hostname & protocol for your site e.g. "https://mingyiz0214.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mingyiz0214/mingyiz.github.io"
@@ -23,7 +23,7 @@ repository               : "mingyiz0214/mingyiz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/headshot.png"
   name             : "Mingyi Zhang"
   pronouns         : "he/his"  
   bio              : "Assistant professor at University of Oklahoma"
@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=QrPyO68AAAAJ"
-  orcid            : "https://scholar.google.co.uk/citations?hl=en&user=QrPyO68AAAAJ"
+  orcid            : "https://orcid.org/0000-0002-9996-6774"
   researchgate     : "https://www.researchgate.net/profile/Mingyi-Zhang-4?ev=hdr_xprf"
   scopus           : # URL
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "mingyiz0214"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -84,7 +84,7 @@ publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
