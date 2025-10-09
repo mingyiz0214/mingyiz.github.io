@@ -1,7 +1,7 @@
 ---
 title: "CO2 in Ionene–Ionic Liquid Composite Membranes"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2025-02-04
