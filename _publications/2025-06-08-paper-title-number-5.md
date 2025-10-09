@@ -1,13 +1,13 @@
 ---
-title: "aaaa, with math $$E=mc^2$$"
+title: "A molecular view of peptoid- induced acceleration of calcite growth"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: ''
+date: 2024-10-29
+venue: 'PNAS'
+paperurl: 'https://doi.org/10.1073/pnas.2412358121'
+citation: 'MY. Zhang, Y. Chen, C. Wu, R. Zheng, E. G. Saccuzzo, Y. Xia, T.K.H. Trinh, E. Nakouzi, B. A. Legg, W. J. Shaw, J. Tao, J. J. De Yoreo, and C-L. Chen, A Molecular View of Peptoid-Induced Acceleration of Calcite Growth, Proc. Natl. Acad. Sci. U.S.A 121 (2024) 45 e2412358121.'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
