@@ -2,12 +2,12 @@
 title: "Manipulating the Assembly and Architecture of Fibrillar Silk"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: https://doi.org/10.1002/adma.202501096
 excerpt: ''
 date: 2025-06-19
 venue: 'Advanced Materials'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'DOI: 10.1002/adma.202501096'
+paperurl: 'https://doi.org/10.1002/adma.202501096'
 citation: 'C. Shi, Y. Bae, MY. Zhang, J. J. De Yoreo. Manipulating the Assembly and Architecture of Fibrillar Silk, Adv Mater (2025), e2501096.'
 ---
 
