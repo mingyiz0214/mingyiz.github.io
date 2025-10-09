@@ -23,7 +23,7 @@ repository               : "mingyiz0214/mingyiz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : "images/headshot.jpg"
   name             : "Mingyi Zhang"
   pronouns         : "he/his"  
   bio              : "Assistant professor at University of Oklahoma"
