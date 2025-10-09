@@ -40,7 +40,15 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
-    "minimal-mistakes/skins/default",
-    "minimal-mistakes",
-    "custom"
+
 ;
+@charset "utf-8";
+
+/* Choose a skin (or set minimal_mistakes_skin: "default" in _config.yml) */
+@import "minimal-mistakes/skins/default";
+
+/* Load the theme */
+@import "minimal-mistakes";
+
+/* Your overrides */
+@import "custom";
