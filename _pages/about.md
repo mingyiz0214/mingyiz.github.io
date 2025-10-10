@@ -11,18 +11,25 @@ Dr. Mingyi Zhang is an Assistant Professor in the School of Aerospace and Mechan
 
 Dr. Zhang’s research focuses on interfacial phenomena and the use of advanced microscopy techniques to investigate materials behavior. His current work explores photochemical and electrochemical processes, materials behavior under extreme conditions, and the design of bioinspired hybrid materials for mechanical and energy-related applications.
 
-<span style="font-family:'Georgia'; font-size:20px; color:#2a2a2a;">Education</span>
+<span style="font-family:'Georgia'; font-size:24px; color:#2a2a2a;">Education</span>
 
 Pacific Northwest National Laboratory   (2022 - 2025)
+
 Postdoc Fellow, Physical & Computational Sciences Directorate
+
 Research topic: solid-liquid interface, crystal growth and nucleation, self-assembly
 
+
 Carnegie Mellon University							(2017 - 2022)
-M.S. and Ph.D., Materials Science and Engineering				
+
+M.S. and Ph.D., Materials Science and Engineering
+
 Thesis: Enhancing charge separation on metal oxides by space charge engineering for photocatalytic overall water splitting
 
 Renmin University of China							(2013 - 2017)
-B.S., Major in Chemistry, Minor in Economics					  
+
+B.S., Major in Chemistry, Minor in Economics		
+
 Thesis: Synthesizing PCBM and its double-balled dimer d-PCBM as electron transfer materials of inverted structure perovskite solar cells
 
 
