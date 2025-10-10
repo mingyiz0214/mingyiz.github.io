@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'MY. Zhang, B. A. Legg, B. A. Helfrecht, Y. Zhang, S. Tan, Y. Xia, R. K. Yodong, M. Iepure,	V. Prabhakaran, P. J. Pauzauskie, Y. Min, and C. J. Mundy and J. J. De Yoreo'
-date: 2025-09-23
+date: 2025-11-01
 venue: 'Nature Materials'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
