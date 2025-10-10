@@ -1,15 +1,6 @@
-.pub-wrap {
-  display: flex;
-  gap: 1.25rem;
-  align-items: flex-start;
-}
+.pub-wrap { display: flex; gap: 1.25rem; align-items: flex-start; }
 .pub-thumb { flex: 0 0 160px; max-width: 160px; }
-.pub-thumb img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
+.pub-thumb img { width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
 .pub-body { flex: 1 1 auto; }
 
 @media (max-width: 640px) {
