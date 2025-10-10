@@ -11,9 +11,7 @@ Dr. Mingyi Zhang is an Assistant Professor in the School of Aerospace and Mechan
 
 Dr. Zhang’s research focuses on interfacial phenomena and the use of advanced microscopy techniques to investigate materials behavior. His current work explores photochemical and electrochemical processes, materials behavior under extreme conditions, and the design of bioinspired hybrid materials for mechanical and energy-related applications.
 
-
-
-Education 
+<span style="font-family:'Georgia'; font-size:20px; color:#2a2a2a;">Education</span>
 
 Pacific Northwest National Laboratory   (2022 - 2025)
 Postdoc Fellow, Physical & Computational Sciences Directorate
