@@ -2,7 +2,7 @@
 title: "From Ion Ordering to Microphase Separation: How Charge Frustration Organizes Ions on Surfaces"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: 'MY. Zhang, B. A. Legg, B. A. Helfrecht, Y. Zhang, S. Tan, Y. Xia, R. K. Yodong, M. Iepure,	V. Prabhakaran, P. J. Pauzauskie, Y. Min, and C. J. Mundy and J. J. De Yoreo'
 date: 2025-09-23
 venue: 'Nature Materials'
